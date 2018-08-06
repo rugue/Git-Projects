@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FifaWorldCup Score Keeper</string>
+    <string name="france">France</string>
+    <string name="france_score">0</string>
+    <string name="croatia">Croatia</string>
+    <string name="croatia_score">0</string>
+
+    <string name="day"><u>Today</u></string>
+    <string name="goal">Goal</string>
+
+    <string name="plus">+</string>
+    <string name="point">0</string>
+
+    <string name="shots">Shots</string>
+    <string name="shots_on_target">Shots On Target</string>
+    <string name="fouls">Fouls</string>
+    <string name="yellow_cards">Yellow Cards</string>
+    <string name="red_cards">Red Cards</string>
+    <string name="date">July 15th, 2018\n07:30pm GMT</string>
+    <string name="stadium">Luzhniki Stadium</string>
+    <string name="reset"><b>Reset</b></string>
+
+    <string name="world_cup_image">World Cup Image</string>
+
+</resources>
